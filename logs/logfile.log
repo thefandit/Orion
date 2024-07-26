@@ -1,2 +1,207 @@
 2024-07-25 13:45:13,460 [DEBUG] __main__:: Starting Server at: 0.0.0.0:5000
 2024-07-25 13:45:22,147 [DEBUG] __main__:: requested /
+2024-07-25 19:37:04,201 [DEBUG] __main__:: Starting Server at: 0.0.0.0:5000
+2024-07-25 19:37:31,838 [DEBUG] __main__:: requested /
+2024-07-25 19:37:37,616 [DEBUG] __main__:: loading Inventory
+2024-07-25 20:14:45,427 [DEBUG] __main__:: Starting Server at: 0.0.0.0:5000
+2024-07-25 20:14:47,925 [DEBUG] __main__:: requested /
+2024-07-25 20:14:59,770 [DEBUG] __main__:: loading Inventory
+2024-07-25 20:15:20,943 [DEBUG] __main__:: loading Inventory
+2024-07-25 20:15:21,857 [DEBUG] __main__:: loading Inventory
+2024-07-25 20:15:22,463 [DEBUG] __main__:: loading Inventory
+2024-07-25 20:15:23,250 [DEBUG] __main__:: loading Inventory
+2024-07-25 20:15:23,675 [DEBUG] __main__:: loading Inventory
+2024-07-25 20:15:24,089 [DEBUG] __main__:: loading Inventory
+2024-07-25 20:15:24,271 [DEBUG] __main__:: loading Inventory
+2024-07-25 20:15:24,423 [DEBUG] __main__:: loading Inventory
+2024-07-25 20:15:24,579 [DEBUG] __main__:: loading Inventory
+2024-07-25 20:15:24,745 [DEBUG] __main__:: loading Inventory
+2024-07-25 20:15:32,955 [DEBUG] __main__:: Starting Server at: 0.0.0.0:5000
+2024-07-25 20:15:35,231 [DEBUG] __main__:: loading Inventory
+2024-07-25 20:15:35,310 [DEBUG] __main__:: Sending Inventory
+2024-07-25 20:16:27,713 [DEBUG] __main__:: Starting Server at: 0.0.0.0:5000
+2024-07-25 20:16:30,104 [DEBUG] __main__:: loading Inventory
+2024-07-25 20:16:30,168 [DEBUG] __main__:: Sending Inventory
+2024-07-25 20:16:33,509 [DEBUG] __main__:: loading Inventory
+2024-07-25 20:16:33,567 [DEBUG] __main__:: Sending Inventory
+2024-07-25 20:17:14,029 [DEBUG] __main__:: Starting Server at: 0.0.0.0:5000
+2024-07-25 20:17:16,120 [DEBUG] __main__:: loading Inventory
+2024-07-25 20:17:16,201 [DEBUG] __main__:: Sending Inventory
+2024-07-25 20:33:59,271 [DEBUG] __main__:: Starting Server at: 0.0.0.0:5000
+2024-07-25 20:34:04,924 [DEBUG] __main__:: loading Inventory
+2024-07-25 20:34:04,997 [DEBUG] __main__:: Sending Inventory
+2024-07-25 20:34:08,111 [DEBUG] __main__:: loading Inventory
+2024-07-25 20:34:08,169 [DEBUG] __main__:: Sending Inventory
+2024-07-25 20:34:08,885 [DEBUG] __main__:: loading Inventory
+2024-07-25 20:34:08,945 [DEBUG] __main__:: Sending Inventory
+2024-07-25 20:34:09,371 [DEBUG] __main__:: loading Inventory
+2024-07-25 20:34:09,429 [DEBUG] __main__:: Sending Inventory
+2024-07-25 20:34:09,835 [DEBUG] __main__:: loading Inventory
+2024-07-25 20:34:09,893 [DEBUG] __main__:: Sending Inventory
+2024-07-25 20:34:10,320 [DEBUG] __main__:: loading Inventory
+2024-07-25 20:34:10,376 [DEBUG] __main__:: Sending Inventory
+2024-07-25 20:34:25,142 [DEBUG] __main__:: Starting Server at: 0.0.0.0:5000
+2024-07-25 20:34:27,382 [DEBUG] __main__:: loading Inventory
+2024-07-25 20:34:27,459 [DEBUG] __main__:: Sending Inventory
+2024-07-25 20:34:35,934 [DEBUG] __main__:: Starting Server at: 0.0.0.0:5000
+2024-07-25 20:34:37,934 [DEBUG] __main__:: loading Inventory
+2024-07-25 20:34:38,010 [DEBUG] __main__:: Sending Inventory
+2024-07-25 20:34:38,517 [DEBUG] __main__:: loading Inventory
+2024-07-25 20:34:38,577 [DEBUG] __main__:: Sending Inventory
+2024-07-25 20:34:39,001 [DEBUG] __main__:: loading Inventory
+2024-07-25 20:34:39,064 [DEBUG] __main__:: Sending Inventory
+2024-07-25 20:34:39,467 [DEBUG] __main__:: loading Inventory
+2024-07-25 20:34:39,531 [DEBUG] __main__:: Sending Inventory
+2024-07-25 20:34:39,631 [DEBUG] __main__:: loading Inventory
+2024-07-25 20:34:39,689 [DEBUG] __main__:: Sending Inventory
+2024-07-25 20:34:39,791 [DEBUG] __main__:: loading Inventory
+2024-07-25 20:34:39,852 [DEBUG] __main__:: Sending Inventory
+2024-07-25 20:34:39,945 [DEBUG] __main__:: loading Inventory
+2024-07-25 20:34:40,001 [DEBUG] __main__:: Sending Inventory
+2024-07-25 20:37:37,119 [DEBUG] __main__:: Starting Server at: 0.0.0.0:5000
+2024-07-25 20:37:42,070 [DEBUG] __main__:: loading Inventory
+2024-07-25 20:37:42,150 [DEBUG] __main__:: Sending Inventory
+2024-07-25 20:41:37,487 [DEBUG] __main__:: Starting Server at: 0.0.0.0:5000
+2024-07-25 20:41:39,406 [DEBUG] __main__:: loading Inventory
+2024-07-25 20:41:39,476 [DEBUG] __main__:: Sending Inventory
+2024-07-25 20:42:38,560 [DEBUG] __main__:: loading Inventory
+2024-07-25 20:42:38,625 [DEBUG] __main__:: Sending Inventory
+2024-07-25 20:56:57,897 [DEBUG] __main__:: Starting Server at: 0.0.0.0:5000
+2024-07-25 20:57:02,461 [DEBUG] __main__:: loading Inventory
+2024-07-25 20:57:02,530 [DEBUG] __main__:: Sending Inventory
+2024-07-25 21:00:37,377 [DEBUG] __main__:: Starting Server at: 0.0.0.0:5000
+2024-07-25 21:00:39,441 [DEBUG] __main__:: loading Inventory
+2024-07-25 21:00:39,518 [DEBUG] __main__:: Sending Inventory
+2024-07-25 21:00:39,519 [DEBUG] __main__:: {'screws': 40}
+2024-07-25 21:01:33,492 [DEBUG] __main__:: Starting Server at: 0.0.0.0:5000
+2024-07-25 21:01:35,978 [DEBUG] __main__:: loading Inventory
+2024-07-25 21:01:36,042 [DEBUG] __main__:: Sending Inventory
+2024-07-25 21:01:36,042 [DEBUG] __main__:: {'screws': 40}
+2024-07-25 21:03:36,855 [DEBUG] __main__:: Starting Server at: 0.0.0.0:5000
+2024-07-25 21:03:42,430 [DEBUG] __main__:: loading Inventory
+2024-07-25 21:03:42,492 [DEBUG] __main__:: Sending Inventory
+2024-07-25 21:03:42,493 [DEBUG] __main__:: {'screws': 40}
+2024-07-25 21:05:38,638 [DEBUG] __main__:: Starting Server at: 0.0.0.0:5000
+2024-07-25 21:05:40,739 [DEBUG] __main__:: loading Inventory
+2024-07-25 21:05:40,804 [DEBUG] __main__:: Sending Inventory
+2024-07-25 21:05:40,805 [DEBUG] __main__:: {'screws': 40}
+2024-07-25 21:09:47,620 [DEBUG] __main__:: Starting Server at: 0.0.0.0:5000
+2024-07-25 21:09:52,489 [DEBUG] __main__:: loading Inventory
+2024-07-25 21:09:52,551 [DEBUG] __main__:: Sending Inventory
+2024-07-25 21:09:52,552 [DEBUG] __main__:: {'screws': 40}
+2024-07-25 21:10:34,947 [DEBUG] __main__:: Starting Server at: 0.0.0.0:5000
+2024-07-25 21:10:37,130 [DEBUG] __main__:: loading Inventory
+2024-07-25 21:10:37,217 [DEBUG] __main__:: Sending Inventory
+2024-07-25 21:10:37,217 [DEBUG] __main__:: {'screws': 40}
+2024-07-25 21:22:28,592 [DEBUG] __main__:: Starting Server at: 0.0.0.0:5000
+2024-07-25 21:22:33,189 [DEBUG] __main__:: loading Inventory
+2024-07-25 21:22:33,260 [DEBUG] __main__:: Sending Inventory
+2024-07-25 21:22:33,260 [DEBUG] __main__:: {'screws': 40}
+2024-07-25 21:28:01,386 [DEBUG] __main__:: Starting Server at: 0.0.0.0:5000
+2024-07-25 21:28:09,623 [DEBUG] __main__:: loading Inventory
+2024-07-25 21:28:09,701 [DEBUG] __main__:: Sending Inventory
+2024-07-25 21:28:09,702 [DEBUG] __main__:: {'screws': 40}
+2024-07-25 21:28:43,386 [DEBUG] __main__:: Starting Server at: 0.0.0.0:5000
+2024-07-25 21:28:45,378 [DEBUG] __main__:: loading Inventory
+2024-07-25 21:28:45,457 [DEBUG] __main__:: Sending Inventory
+2024-07-25 21:28:45,457 [DEBUG] __main__:: {'screws': 40}
+2024-07-25 21:30:16,298 [DEBUG] __main__:: Starting Server at: 0.0.0.0:5000
+2024-07-25 21:30:18,921 [DEBUG] __main__:: loading Inventory
+2024-07-25 21:30:18,991 [DEBUG] __main__:: Sending Inventory
+2024-07-25 21:30:18,992 [DEBUG] __main__:: {'screws': 40}
+2024-07-25 21:30:20,716 [DEBUG] __main__:: loading Inventory
+2024-07-25 21:30:20,775 [DEBUG] __main__:: Sending Inventory
+2024-07-25 21:30:20,776 [DEBUG] __main__:: {'screws': 40}
+2024-07-25 21:30:21,116 [DEBUG] __main__:: loading Inventory
+2024-07-25 21:30:21,176 [DEBUG] __main__:: Sending Inventory
+2024-07-25 21:30:21,176 [DEBUG] __main__:: {'screws': 40}
+2024-07-25 21:30:21,319 [DEBUG] __main__:: loading Inventory
+2024-07-25 21:30:21,379 [DEBUG] __main__:: Sending Inventory
+2024-07-25 21:30:21,380 [DEBUG] __main__:: {'screws': 40}
+2024-07-25 21:30:21,510 [DEBUG] __main__:: loading Inventory
+2024-07-25 21:30:21,575 [DEBUG] __main__:: Sending Inventory
+2024-07-25 21:30:21,576 [DEBUG] __main__:: {'screws': 40}
+2024-07-25 21:30:21,837 [DEBUG] __main__:: loading Inventory
+2024-07-25 21:30:21,900 [DEBUG] __main__:: Sending Inventory
+2024-07-25 21:30:21,900 [DEBUG] __main__:: {'screws': 40}
+2024-07-25 21:30:22,021 [DEBUG] __main__:: loading Inventory
+2024-07-25 21:30:22,080 [DEBUG] __main__:: Sending Inventory
+2024-07-25 21:30:22,080 [DEBUG] __main__:: {'screws': 40}
+2024-07-25 21:30:22,191 [DEBUG] __main__:: loading Inventory
+2024-07-25 21:30:22,250 [DEBUG] __main__:: Sending Inventory
+2024-07-25 21:30:22,250 [DEBUG] __main__:: {'screws': 40}
+2024-07-25 21:30:22,357 [DEBUG] __main__:: loading Inventory
+2024-07-25 21:30:22,417 [DEBUG] __main__:: Sending Inventory
+2024-07-25 21:30:22,418 [DEBUG] __main__:: {'screws': 40}
+2024-07-25 21:30:22,532 [DEBUG] __main__:: loading Inventory
+2024-07-25 21:30:22,588 [DEBUG] __main__:: Sending Inventory
+2024-07-25 21:30:22,589 [DEBUG] __main__:: {'screws': 40}
+2024-07-25 21:30:22,704 [DEBUG] __main__:: loading Inventory
+2024-07-25 21:30:22,764 [DEBUG] __main__:: Sending Inventory
+2024-07-25 21:30:22,764 [DEBUG] __main__:: {'screws': 40}
+2024-07-25 21:30:22,864 [DEBUG] __main__:: loading Inventory
+2024-07-25 21:30:22,932 [DEBUG] __main__:: Sending Inventory
+2024-07-25 21:30:22,932 [DEBUG] __main__:: {'screws': 40}
+2024-07-25 21:30:49,545 [DEBUG] __main__:: Starting Server at: 0.0.0.0:5000
+2024-07-25 21:30:54,447 [DEBUG] __main__:: loading Inventory
+2024-07-25 21:30:54,515 [DEBUG] __main__:: Sending Inventory
+2024-07-25 21:30:54,515 [DEBUG] __main__:: {'screws': 40}
+2024-07-25 21:31:36,127 [DEBUG] __main__:: Starting Server at: 0.0.0.0:5000
+2024-07-25 21:31:39,541 [DEBUG] __main__:: loading Inventory
+2024-07-25 21:31:39,617 [DEBUG] __main__:: Sending Inventory
+2024-07-25 21:31:39,618 [DEBUG] __main__:: {'screws': 40}
+2024-07-25 21:32:18,838 [DEBUG] __main__:: Starting Server at: 0.0.0.0:5000
+2024-07-25 21:32:21,227 [DEBUG] __main__:: loading Inventory
+2024-07-25 21:32:21,298 [DEBUG] __main__:: Sending Inventory
+2024-07-25 21:32:21,298 [DEBUG] __main__:: {'screws': 40}
+2024-07-25 21:32:22,220 [DEBUG] __main__:: loading Inventory
+2024-07-25 21:32:22,286 [DEBUG] __main__:: Sending Inventory
+2024-07-25 21:32:22,286 [DEBUG] __main__:: {'screws': 40}
+2024-07-25 21:33:42,883 [DEBUG] __main__:: Starting Server at: 0.0.0.0:5000
+2024-07-25 21:33:47,643 [DEBUG] __main__:: loading Inventory
+2024-07-25 21:33:47,717 [DEBUG] __main__:: Sending Inventory
+2024-07-25 21:33:47,717 [DEBUG] __main__:: {'screws': 40}
+2024-07-25 21:37:10,002 [DEBUG] __main__:: Starting Server at: 0.0.0.0:5000
+2024-07-25 21:37:16,675 [DEBUG] __main__:: loading Inventory
+2024-07-25 21:37:16,737 [DEBUG] __main__:: Sending Inventory
+2024-07-25 21:37:16,737 [DEBUG] __main__:: {'screws': 40}
+2024-07-25 21:39:40,271 [DEBUG] __main__:: Starting Server at: 0.0.0.0:5000
+2024-07-25 21:39:44,695 [DEBUG] __main__:: loading Inventory
+2024-07-25 21:39:44,759 [DEBUG] __main__:: Sending Inventory
+2024-07-25 21:39:44,760 [DEBUG] __main__:: {'screws': 40}
+2024-07-25 21:41:05,218 [DEBUG] __main__:: Starting Server at: 0.0.0.0:5000
+2024-07-25 21:41:11,534 [DEBUG] __main__:: loading Inventory
+2024-07-25 21:41:11,596 [DEBUG] __main__:: Sending Inventory
+2024-07-25 21:41:11,596 [DEBUG] __main__:: {'screws': 40}
+2024-07-25 21:42:14,323 [DEBUG] __main__:: Starting Server at: 0.0.0.0:5000
+2024-07-25 21:42:19,929 [DEBUG] __main__:: loading Inventory
+2024-07-25 21:42:20,009 [DEBUG] __main__:: Sending Inventory
+2024-07-25 21:42:20,009 [DEBUG] __main__:: {'screws': 40}
+2024-07-25 21:43:04,619 [DEBUG] __main__:: Starting Server at: 0.0.0.0:5000
+2024-07-25 21:43:07,475 [DEBUG] __main__:: loading Inventory
+2024-07-25 21:43:07,539 [DEBUG] __main__:: Sending Inventory
+2024-07-25 21:43:07,540 [DEBUG] __main__:: {'screws': 40}
+2024-07-25 21:44:08,275 [DEBUG] __main__:: Starting Server at: 0.0.0.0:5000
+2024-07-25 21:44:09,999 [DEBUG] __main__:: loading Inventory
+2024-07-25 21:44:10,066 [DEBUG] __main__:: Sending Inventory
+2024-07-25 21:44:10,066 [DEBUG] __main__:: {'screws': 40}
+2024-07-25 21:46:06,316 [DEBUG] __main__:: Starting Server at: 0.0.0.0:5000
+2024-07-25 21:46:08,069 [DEBUG] __main__:: loading Inventory
+2024-07-25 21:46:08,142 [DEBUG] __main__:: Sending Inventory
+2024-07-25 21:46:08,143 [DEBUG] __main__:: {'screws': 40}
+2024-07-25 21:47:24,246 [DEBUG] __main__:: Starting Server at: 0.0.0.0:5000
+2024-07-25 21:47:26,146 [DEBUG] __main__:: loading Inventory
+2024-07-25 21:47:26,220 [DEBUG] __main__:: Sending Inventory
+2024-07-25 21:47:26,220 [DEBUG] __main__:: {'screws': 40}
+2024-07-25 21:48:00,049 [DEBUG] __main__:: Starting Server at: 0.0.0.0:5000
+2024-07-25 21:48:02,506 [DEBUG] __main__:: loading Inventory
+2024-07-25 21:48:02,574 [DEBUG] __main__:: Sending Inventory
+2024-07-25 21:48:02,580 [DEBUG] __main__:: {'screws': 40, 'bolts': 32}
+2024-07-25 21:48:16,499 [DEBUG] __main__:: Starting Server at: 0.0.0.0:5000
+2024-07-25 21:48:18,290 [DEBUG] __main__:: loading Inventory
+2024-07-25 21:48:18,370 [DEBUG] __main__:: Sending Inventory
+2024-07-25 21:48:18,370 [DEBUG] __main__:: {'screws': 40, 'bolts': 32}
+2024-07-25 21:48:27,540 [DEBUG] __main__:: Starting Server at: 0.0.0.0:5000
+2024-07-25 21:48:29,536 [DEBUG] __main__:: loading Inventory
+2024-07-25 21:48:29,621 [DEBUG] __main__:: Sending Inventory
+2024-07-25 21:48:29,621 [DEBUG] __main__:: {'screws': 40, 'bolts': 32}
