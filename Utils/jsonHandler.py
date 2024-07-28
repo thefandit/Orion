@@ -1,6 +1,7 @@
 import json
+import os
 
-class jsonHandler:
+class JSONHandler:
     def __init__(self, filename, full_write=False, load_on_init=True):
         """
         Initialize the JSONHandler class.
@@ -87,3 +88,9 @@ class jsonHandler:
             return "Value set successfully."
         except Exception as e:
             return f"Error setting value: {str(e)}"
+        
+
+def get_jason_filepath_from_sister_folder(filename):
+    current_dir = os.path.dirname(__file__)
+    json_file_path = os.path.join(current_dir, '..', 'jasons', filename)
+    return json_file_path
