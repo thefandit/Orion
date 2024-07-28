@@ -1,10 +1,18 @@
-from flask import Flask
-import socketio
+import requests
+from requests.auth import HTTPBasicAuth
 
-sio = socketio.Client()
+username = "anadmin123"
+password = "admin123"
 
-@sio.event
-def connect():
-    print('Connected to server')
-    sio.emit('connection', {'auth_type' : 'new_login', 'token' : 'none', 'login_hash' : 'NOTSECUREHASH'}) # valid authentication types are new_login (proceed through authentication) or token (use a given token to establish authentication).
-    
+# Define the URL of the FastAPI server
+url = f"http://127.0.0.1:8000/name/{username}"  # Replace "your_name" with the actual name you want to use
+
+# Make the GET request with Basic Authentication
+response = requests.get(url, auth=HTTPBasicAuth(username, password))
+
+# Check the response status code
+if response.status_code == 200:
+    # Print the JSON response
+    print(response.json())
+else:
+    print(f"Failed to authenticate: {response.status_code}")

@@ -1,18 +1,14 @@
-# from typing import Union
-# from fastapi import FastAPI
+from fastapi import FastAPI, Depends
+from fastapi.security import HTTPBasic
+from utils.authenticator import Authenticator
 
-# app = FastAPI()
+security = HTTPBasic()
+app = FastAPI(dependencies=[Depends(security)])
+auth = Authenticator()
 
-# INVALID_HASH = {"TOKEN": "INVALID_HASH"}
-
-# @app.get("/")
-# def read_root():
-#     return {"Hello": "World"}
-
-# @app.get("/login/<hash>")
-# def login(hash):
-#     if len(hash) != 40:
-#         return INVALID_HASH
+@app.get("/name/{name}")
+async def search(name: str, Verifcation = Depends(auth.verification)):
+    if Verifcation:
+        #Insert Code Here
+        return {"Hello":name}
     
-
-

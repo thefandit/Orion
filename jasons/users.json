@@ -1,10 +1,10 @@
 {
     "anadmin123" : {
-        "hash" : "THEADMINHASHISVERYSECUREANDISFORTYCHARAC",
+        "password" : "admin123",
         "role" : "admin"
     },
     "auser456" : {
-        "hash" : "THEUSERHASHISVERYSECUREANDISFORTYCHARACT",
+        "password" : "user456",
         "role" : "user"
     }
 }

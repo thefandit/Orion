@@ -1,9 +1,9 @@
-from .jsonHandler import get_jason_filepath_from_sister_folder, JSONHandler
+from .jsonHandler import get_jason_filepath, JSONHandler
 
 class PermissionManager:
     def __init__(self):
-        self.users_handler = JSONHandler(get_jason_filepath_from_sister_folder("users.json"))
-        self.roles_handler = JSONHandler(get_jason_filepath_from_sister_folder("roles.json"))
+        self.users_handler = JSONHandler(get_jason_filepath("users.json"), custom_name="PM_Users")
+        self.roles_handler = JSONHandler(get_jason_filepath("roles.json"), custom_name="PM_Roles")
     
     def has_permission(self, username, permission_path):
         # Load users and roles data
@@ -19,8 +19,9 @@ class PermissionManager:
         
         # Check if role exists in roles
         if user_role not in roles:
+            print("Role does not exist")
             return False
-        
+                
         # Split the permission path by dot
         permission_keys = permission_path.split('.')
         
