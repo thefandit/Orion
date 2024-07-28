@@ -57,3 +57,33 @@ class jsonHandler:
                 return "Data written to the file."
             except Exception as e:
                 return f"Error writing to file: {str(e)}"
+            
+    def get_value(self, key):
+        """Gets the value of the given key. Returns it.
+
+        Args:
+            key (JSON): The JSON key.
+
+        Returns:
+            Any: String with error, or the data at the value.
+        """
+        try:
+            return self.data[key]
+        except KeyError:
+            return f"Key '{key}' not found in JSON data."
+        
+    def set_value(self, key, value):
+        """Sets the value in cache of the given key. SHOULD BE USED WITH A write_json IMMEDIATLY AFTER.
+
+        Args:
+            key (JSON): The JSON key.
+            value (Any): The value to write at the given key.
+
+        Returns:
+            String: The success/exception message.
+        """
+        try:
+            self.data[key] = value
+            return "Value set successfully."
+        except Exception as e:
+            return f"Error setting value: {str(e)}"
