@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            table, th, td {border: 1px solid black; border-collapse: collapse;}
+        </style>
+        <title>Test Page</title>
+    </head>
+
+    <body>
+        <table id="table">
+            <tr>
+                <th>Item</th>
+                <th>Amount</th>
+                <th>Actions</th>
+            </tr>
+            <script>
+                var table = document.getElementById("table");
+                var count = 0;
+                const data = fetch('/getinventory').then((response) => response.json()).then((data) => {
+                    for (const key of Object.keys(data)) {
+
+                        const row = table.insertRow(1);
+                        const cell1 = row.insertCell(0);
+                        const cell2 = row.insertCell(1);
+                        const cell3 = row.insertCell(2);
+
+                        cell1.innerHTML = String(key);
+                        cell2.innerHTML = String(data[key]);
+                        cell3.innerHTML = `
+                            <form action="/increment/${key}/${}" method="post" style="display:inline;">
+                                <input type="number" name="amount" id="amount" onchange="onFormChanged()" />
+                                <button type="submit">+</button>
+                            </form>
+                        `;
+                    }
+                });
+
+                function onFormChanged(var rowNum) {
+
+                }
+            </script>
+        </table>
+    </body>
+</html>
