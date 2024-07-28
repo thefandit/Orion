@@ -1,0 +1,68 @@
+{
+    "admin" : {
+        "items" : {
+            "add" : true,
+            "remove" : true,
+            "update" : true,
+            "read" : true
+        },
+        "users" : {
+            "profiles" : {
+                "read" : true,
+                "update" : true
+            },
+            "update_roles" : true,
+            "add_users" : true
+
+        }
+    },
+    "trusted" : {
+        "items" : {
+            "add" : true,
+            "remove" : false,
+            "update" : true,
+            "read" : true
+        },
+        "users" : {
+            "profiles" : {
+                "read" : true,
+                "update" : false
+            },
+            "update_roles" : false,
+            "add_users" : true
+        }
+    
+    },
+    "user" : {
+        "items" : {
+            "add" : false,
+            "remove" : false,
+            "update" : true,
+            "read" : true
+        },
+        "users" : {
+            "profiles" : {
+                "read" : true,
+                "update" : false
+            },
+            "update_roles" : false,
+            "add_users" : false
+        }
+    },
+    "guest" : {
+        "items" : {
+            "add" : false,
+            "remove" : false,
+            "update" : false,
+            "read" : true
+        },
+        "users" : {
+            "profiles" : {
+                "read" : false,
+                "update" : false
+            },
+            "update_roles" : false,
+            "add_users" : false
+        }
+    }
+}
